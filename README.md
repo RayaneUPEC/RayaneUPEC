@@ -1,8 +1,35 @@
-Hi there! 👋 I'm Rayane
-🎓 I'm a student at Université Paris Est Créteil(UPEC), currently pursuing a Bachelor In Computer Science (3rd Year).
+# 👋 Hi, I'm Rayane!  
 
-🚀 Here are some technologies I work with:
+🎓 **Computer Science Student @ Université Paris Est Créteil (UPEC)**  
+📌 Currently in my 3rd year, specializing in **Application Development, Design, and Validation**  
 
-PHP ReactJS HTML CSS Python C++ Java
+---
 
-🌐 I'm passionate about software development and have a keen interest in ethical hacking.
+## 🚀 Technologies & Tools  
+
+💻 **Programming Languages**  
+- Python 🐍 | C++ 🚀 | Java ☕ | PHP 🌍  
+
+🖥️ **Web Development**  
+- React.js ⚛️ | HTML5 🌐 | CSS3 🎨 | JavaScript 🖱️  
+
+⚙️ **Other Skills**  
+- Git & GitHub 📂 | Linux 🐧 | MySQL & PostgreSQL 🗄️  
+
+---
+
+## 🔥 Interests & Passion  
+
+- 🛡️ **Ethical Hacking & Cybersecurity**  
+- 🤖 **Artificial Intelligence & Automation**  
+- 🏗️ **Software Architecture & Scalability**  
+
+---
+
+## 📫 Get in Touch  
+
+- **GitHub**: [YourGitHubUsername](https://github.com/)  
+- **LinkedIn**: [YourLinkedInProfile](https://linkedin.com/in/)  
+- **Email**: [your.email@example.com](mailto:your.email@example.com)  
+
+Let's build something amazing together! 🚀
