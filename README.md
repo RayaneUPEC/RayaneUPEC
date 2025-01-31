@@ -18,18 +18,14 @@
 
 ---
 
-## 🔥 Interests & Passion  
-
-- 🛡️ **Ethical Hacking & Cybersecurity**  
-- 🤖 **Artificial Intelligence & Automation**  
-- 🏗️ **Software Architecture & Scalability**  
+## 🔥 Interests & Passion   
 
 ---
 
 ## 📫 Get in Touch  
 
-- **GitHub**: [YourGitHubUsername](https://github.com/)  
-- **LinkedIn**: [YourLinkedInProfile](https://linkedin.com/in/)  
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
+- **GitHub**: (https://github.com/RayaneUPEC)  
+- **LinkedIn**: (https://www.linkedin.com/in/rayane-khatim-27b3022a0/) 
+- **Email**: rayane.khatim@etu.u-pec.fr 
 
 Let's build something amazing together! 🚀
