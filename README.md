@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4AB3ED&width=500&lines=Etudiant+en+BUT+Informatique+%40+UPEC;Spécialisé+en+Développement+d'Applications;Passionné+par+le+Web+et+l'Innovation+Tech;Toujours+prêt+à+relever+des+d%C3%A9fis+!+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
----
+<hr style="border: 0.5px solid #ccc; margin: 20px 0;" />
 
 ## 🙋‍♂️ À propos de moi
 
