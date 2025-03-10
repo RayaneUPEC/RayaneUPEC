@@ -119,5 +119,8 @@ const rayane = {
 </p>
 
 
-<p align="center"><a href="#top">🔝 Retour en haut</a></p>
+<p align="center">
+  <a href="#top"><img src="https://img.shields.io/badge/🔝%20Back%20to%20Top-blue?style=for-the-badge" alt="Back to top"></a>
+</p>
+
 
