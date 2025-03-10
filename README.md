@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4AB3ED&width=500&lines=Etudiant+en+BUT+Informatique+%40+UPEC;Spécialisé+en+Développement+d'Applications;Passionné+par+le+Web+et+l'Innovation+Tech;Toujours+prêt+à+relever+des+d%C3%A9fis+!+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RayaneUPEC&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/RayaneUPEC?tab=followers"><img src="https://img.shields.io/github/followers/RayaneUPEC?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" /></a>
+  <a href="https://github.com/RayaneUPEC"><img src="https://img.shields.io/badge/Edit%20Profile-Click%20Here-blue?style=flat-square&logo=github" alt="Edit Profile" /></a>
+</p>
+
 
 ## 🙋‍♂️ À propos de moi
 
