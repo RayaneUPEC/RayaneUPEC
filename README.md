@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4AB3ED&width=500&lines=Etudiant+en+BUT+Informatique+%40+UPEC;Spécialisé+en+Développement+d'Applications;Passionné+par+le+Web+et+l'Innovation+Tech;Toujours+prêt+à+relever+des+d%C3%A9fis+!+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
-<hr style="width: 60%; border: 0.5px solid #ccc; margin: 20px auto;" />
 
 ## 🙋‍♂️ À propos de moi
 
@@ -14,28 +13,36 @@
 💡 Passionné par le **développement web**, la **création d'applications innovantes**, et l'**automatisation**.  
 🔍 Actuellement **en recherche d'une alternance** pour approfondir mes compétences en développement.
 
-<hr style="width: 60%; border: 0.5px solid #ccc; margin: 20px auto;" />
 
 ## 🚀 Stack Visuelle Complète
 
-<h2 align="center">🚀 Stack complet et maîtrisé 🚀</h2>
+<h2 align="center">🚀 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4AB3ED&width=435&lines=Stack+Complet+et+Maîtrisé+%F0%9F%92%BB" alt="Typing SVG" /> 🚀</h2>
 
 ### 🧠 **Back-End**
-<p align="center"><img src="https://skillicons.dev/icons?i=python,java,php,cpp,spring,nodejs" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,php,cpp,spring,nodejs" />
+</p>
 
 ### 🎨 **Front-End**
-<p align="center"><img src="https://skillicons.dev/icons?i=js,react,html,css" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css" />
+</p>
 
 ### 🗄️ **Bases de Données & Broker**
-<p align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+</p>
 
 ### 🐳 **Conteneurisation & OS**
-<p align="center"><img src="https://skillicons.dev/icons?i=docker,linux" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux" />
+</p>
 
 ### 🔧 **Outils & Versioning**
-<p align="center"><img src="https://skillicons.dev/icons?i=git,github,figma" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+</p>
 
-<hr style="width: 60%; border: 0.5px solid #ccc; margin: 20px auto;" />
 
 ## 🛠️ Compétences détaillées
 
@@ -62,7 +69,6 @@ const rayane = {
 };
 ```
 
-<hr style="width: 60%; border: 0.5px solid #ccc; margin: 20px auto;" />
 
 ## 🌟 Projets Majeurs
 
@@ -71,12 +77,12 @@ const rayane = {
 > Solution innovante de transport pour personnes à mobilité réduite, avec **IA pour reconnaissance documentaire**.  
 > 📱 App Mobile & Web | 🔗 API REST | 🧠 AI intégrée.
 
+
 ### 🌍 **Tableau de bord Pollution — Analyse environnementale**
 > **React, TailwindCSS**  
 > Dashboard interactif pour visualiser les données sur la **pollution**, météo, et vents.  
 > 📊 Data Viz | API | UX/UI moderne.
 
-<hr style="width: 60%; border: 0.5px solid #ccc; margin: 20px auto;" />
 
 ## 📊 Statistiques GitHub
 
@@ -86,7 +92,6 @@ const rayane = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayaneUPEC&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-<hr style="width: 60%; border: 0.5px solid #ccc; margin: 20px auto;" />
 
 ## 🤝 Me Contacter
 
@@ -96,16 +101,17 @@ const rayane = {
   <a href="https://github.com/RayaneUPEC"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<hr style="width: 60%; border: 0.5px solid #ccc; margin: 20px auto;" />
 
 ## 💡 Ma vision et mes valeurs
 
 > *"La technologie ne résout pas seulement des problèmes, elle crée des opportunités pour améliorer le monde."* 🌍✨  
 > *"Créer des solutions inclusives, accessibles et performantes. Toujours prêt à innover, apprendre et collaborer."* 🚀💻  
 
+
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="400px" />
 </p>
+
 
 <p align="center"><a href="#top">🔝 Retour en haut</a></p>
 
